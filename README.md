@@ -1,7 +1,5 @@
 ## KSA Tours and Travels
-# 🇸🇦 KSA Tourism
 
-> A modern web-based tourism platform to explore destinations, discover travel packages, and book tours across Saudi Arabia.
 
 🌐 **Live Demo:** [https://ksa.co.in/](https://ksa.co.in/)
 
